@@ -36,6 +36,8 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-docker.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/ansible-icon-2048x2048-mc4z634w.png" alt="Ansible" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/Kubernetes-icon-color.svg.png" alt="Kubernetes" width="40" height="40"/> </a> 
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerodro&layout=compact)
 </p>
 
 
