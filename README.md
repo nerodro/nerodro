@@ -2,7 +2,7 @@
 
 🌱 На данный момент я изучаю <b> C#, ASP.NET, Information Security, Devops </b>
 
-🔭 Сейчас работаю над собственным проектом https://github.com/nerodro/WebShopOnion 
+🔭 Сейчас работаю над собственным проектом https://github.com/nerodro/WebShopApi
 
 📫 Как со мной связатся: retardretardov900@gmail.com
 
