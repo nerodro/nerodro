@@ -21,8 +21,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a> 
-<a href="###" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-c-sharp.svg" alt="C#" width="50" height="50"/> </a> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/sql-database-generic.svg" alt="SQL" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF-c-sharp.svg" alt="C#" width="50" height="50"/> </a> </a> 
+<a href="https://ru.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/sql-database-generic.svg" alt="SQL" width="40" height="40"/> </a> 
 </p>
 
 ### Tools:
