@@ -32,10 +32,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/git.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/PyCharm.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-visual-studio(1).svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-docker.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/ansible-icon-2048x2048-mc4z634w.png" alt="Ansible" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/Kubernetes-icon-color.svg.png" alt="Kubernetes" width="40" height="40"/> </a> 
+<a href="https://visualstudio.microsoft.com/ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-visual-studio(1).svg" alt="git" width="40" height="40"/> </a>  
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/icons8-docker.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/ansible-icon-2048x2048-mc4z634w.png" alt="Ansible" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io/ru/" target="_blank" rel="noreferrer"> <img src="https://github.com/nerodro/nerodro/blob/main/Kubernetes-icon-color.svg.png" alt="Kubernetes" width="40" height="40"/> </a> 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerodro&layout=compact)
 </p>
